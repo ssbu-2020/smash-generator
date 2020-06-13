@@ -1,0 +1,15 @@
+.CharacterCard {
+  bottom: 0;
+  height: 440px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+  text-align: center;
+  top: 0;
+  width: 425px;
+}
+
+.BeforeCount {
+  margin-top: 1em;
+}
