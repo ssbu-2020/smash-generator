@@ -57,7 +57,7 @@ const characters = [
   { id: 50, name: 'Rosalina & Luma', image: images.Rosalina },
   { id: 51, name: 'Little Mac', image: images.LittleMac },
   { id: 52, name: 'Greninja', image: images.Greninja },
-  { id: 53, name: 'Mii Fighter', image: images.MiiFighter },
+  { id: 53, name: 'Mii Brawler', image: images.MiiFighter },
   { id: 54, name: 'Mii Gunner', image: images.MiiGunner },
   { id: 55, name: 'Mii Swordfighter', image: images.MiiSwordFighter },
   { id: 56, name: 'Palutena', image: images.Palutena },
