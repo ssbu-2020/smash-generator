@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3d8aec0963207de6572b004e9c032dfa",
+    "revision": "2687e8d516cc84fe64065c3035e2a4df",
     "url": "/smash-generator/index.html"
   },
   {
